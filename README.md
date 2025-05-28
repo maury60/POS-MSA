@@ -21,4 +21,4 @@ El sistema es un Punto de Venta (PDV) desarrollado en entorno web que permite ge
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/maury60/POS-MSA.git
